@@ -44,5 +44,5 @@ My journey in tech and security has led me to develop a passion for cybersecurit
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project# 
+- SIEM & Threat Dection Lab Environment
+- Malware Incident Investigation and EDR Tuning Simulation
